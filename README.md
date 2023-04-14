@@ -1,4 +1,4 @@
-# PLIP-PyRosetta-hotspots-test
+# PLIP-PyRosetta-hotspots-test (Plipspots)
 A proof-of-principle of using PLIP and PyRosetta as a substitute to Hotspot API and CCDC Gold.
 
 > :construction: This is a work in progress. :construction:
