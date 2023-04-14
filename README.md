@@ -7,7 +7,8 @@ A proof-of-principle of using PLIP and PyRosetta as a substitute to Hotspot API 
 ## Rationale
 The reason for this is three-fold:
 
-* CCDC Gold changed how their code works and it broke STRIFE
+* CCDC Gold changed how their code works and it broke STRIFE... 
+    I wanted to explore if PyRosetta AmbiguousConstraint would be a better fit
 * I am familiar with PyRosetta and I want to play with the AmbiguousConstraint class for pharmacophore-based docking.
 * I have code that uses PLIP already, whereas I have not yet used Hotspot API, so convenience —a placeholder for now.
 
